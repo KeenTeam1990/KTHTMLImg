@@ -2,8 +2,8 @@
 iOS点击HTML中图片,实现原生左右滑动预览。
 
 效果图
-<img src="./pic/IMG_2562.PNG"  width="375" height="667"/>
 
+<img src="./pic/IMG_2562.PNG"  width="375" height="667"/>
 <img src="./pic/IMG_2563.PNG"  width="375" height="667"/>
 
 
